@@ -1,0 +1,25 @@
+.header{
+    width: 100%;
+    padding-top: 30px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    right: 0px;
+    z-index: 1000;
+    background: #000000;
+}
+.container{
+    height: 10px;
+    width: 100%;
+    max-width: 1230px;
+    padding: 0 15px;
+    margin: 0 auto;
+}
+.page{
+    overflow: hidden;
+}
+.download_b{
+    margin-top: 200px;
+    background-color: red;
+    display: block;
+}
